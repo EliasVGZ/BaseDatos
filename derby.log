@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Apr 22 12:20:02 CEST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0187-a87a-5585-00000eb8cda8 
+on database directory C:\Users\mrnov\Documents\IntelliJProjects\JDBC_BBDDRR_LibrAutMultiplesConect_2023\BD\librosApache with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/mrnov/Documents/IntelliJProjects/JDBC_BBDDRR_LibrAutMultiplesConect_2023/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=C:\Users\mrnov\Documents\IntelliJProjects\JDBC_BBDDRR_LibrAutMultiplesConect_2023
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
